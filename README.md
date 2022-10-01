@@ -1,6 +1,10 @@
 # meta-global-hackathon
 Submission for Product Thinking Challenge for Meta Global Hackathon
 
+The team consists of two members:
+1. Saviour Akatugba
+2. Aderounmu Bamgbose
+
 
 Welcome to the Product Thinking challenge! This challenge is designed to challenge your creative skills and allow you to think outside the box. Work individually or in teams (more details below in the ‘ways of working’ section) to ideate solutions for real-life problems to share with the rest of the participants!
 
@@ -26,8 +30,6 @@ Let’s see more in detail what the two stages of this challenge are about.
 
 
 
-
-
 Stage One: Ideation
 
 Once you have selected which large-scale problem you will be solving, you’ll have until 20th September to come up with a creative tech solution for it. For this stage, you will have to build a small slide presentation (up to 2 slides - n.b. it must be a pdf file) in which you’ll be asked to specify:
@@ -49,12 +51,8 @@ Once everyone has submitted their initial ideas, voting will take place and ever
 The 20 to 24 most voted entries from the first stage will make it to the second stage.
 
 
-
-
 SUBMISSION FOR STAGE 1
 [Meta Hackathon Presentation.pdf](https://github.com/saviganga/meta-global-hackathon/files/9690219/Meta.Hackathon.Presentation.pdf)
-
-
 
 
 
@@ -72,13 +70,10 @@ We hope you enjoy this challenge, and look forward to seeing which awesome ideas
 
 SUBMISSION FOR STAGE 2
 
-
 - Presentation
-
 [Meta Electricity Project.pdf](https://github.com/saviganga/meta-global-hackathon/files/9690223/Meta.Electricity.Project.pdf)
 
 - Video
-
 https://www.canva.com/design/DAFNWGNLsKA/XYayfdcCGu0P1ZOkBcuqUQ/watch?utm_content=DAFNWGNLsKA&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel
 
 
